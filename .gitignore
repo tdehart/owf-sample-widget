@@ -1,0 +1,27 @@
+# OS generated files #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+.AppleDouble
+.LSOverride
+Icon
+ehthumbs.db
+Thumbs.db
+$RECYCLE.BIN/
+
+# IDE support files
+/.classpath
+/.launch
+/.project
+/.settings
+/*.launch
+/*.tmproj
+/ivy*
+/eclipse
+/.idea
+/*.iml
+/*.iws
+/*.ipr
